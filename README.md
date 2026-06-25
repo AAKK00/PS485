@@ -1,0 +1,2 @@
+# PS485
+posision sensorとrs485とattinyを用いた角度取得モジュール
