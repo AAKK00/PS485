@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "posision_sensor") (type "KiCad") (uri "${KIPRJMOD}/posision_sensor.pretty") (options "") (descr ""))
+)

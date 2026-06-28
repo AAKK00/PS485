@@ -41,3 +41,12 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Order package archive
+発注用.zip
