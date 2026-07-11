@@ -50,3 +50,6 @@ fp-info-cache
 
 # Order package archive
 発注用.zip
+
+# Local restore backups (created when reverting to an older version)
+_pre_restore_*/
